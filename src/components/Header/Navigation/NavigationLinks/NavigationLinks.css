@@ -1,0 +1,29 @@
+.NavigationLinks {
+    
+    /*border: 2px solid green;*/
+    color: white;
+    margin: 0;
+    padding: 0;
+    position: relative; 
+    top: 10px; 
+    
+}
+.NavigationLinks ul {
+    overflow: hidden;
+}
+.NavigationLinks li {
+    display: inline-block;
+    list-style: none;
+    padding-left: 20px;
+    
+}
+.NavigationLinks li a {
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.NavigationLinks li a:hover {
+    background-color: #111;
+}

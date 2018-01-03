@@ -1,0 +1,20 @@
+.Brand {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    /* border: 2px solid yellow; */
+    align-items: center;
+}
+.BrandImg {
+    width: 60px;
+    height: 70px;
+    margin: 0;
+    margin-left: 20px;
+    padding: 0;
+    left: 0;
+    
+}
+.Container {
+    display: inline-block;
+    
+}
