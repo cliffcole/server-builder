@@ -1,7 +1,23 @@
 .Navigation {
-    display: inline-block;
+    /* display: inline-block;
     background: black;
     align-items: center;
     margin: 0;
-    padding: 0;
+    padding: 0; */
+}
+
+.navbar {
+    display: flex;
+} 
+.navbar-expand-lg {
+
+} 
+.navbar-light {
+
+} 
+.bg-light {
+
+}
+.bottomalign {
+    align-items: flex-end;
 }

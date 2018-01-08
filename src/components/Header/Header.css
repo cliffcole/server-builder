@@ -1,7 +1,7 @@
-.Header {
-    /* border: 2px solid red; */
+.container {
+    border: 2px solid red; 
     padding: 0;
     margin: 0;
-    background: black;
-    max-height: 85px;
+    background: #343a40;
+    height: 100px;
 }

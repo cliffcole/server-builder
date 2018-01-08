@@ -5,9 +5,12 @@ import Brand from './../Brand/Brand';
 const header = (props) => {
 
     return (
-        <header className={classes.Header}>
-            <Brand />
+        <header className={classes.container}>
+            {/* <Brand />
+            <Navigation />  */}
             <Navigation />
+            
+
         </header>
     )
 }
